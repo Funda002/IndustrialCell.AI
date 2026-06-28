@@ -57,7 +57,7 @@ IndustrialCell.AI automatically:
 - Produces immutable audit logs  
 - Maintains historical production records  
 ## 🏗️ System Architecture  
-
+![Alt Text](Screenshot 2026-06-28 072934.png)
 # 🧰 Technology Stack
 
 | Component | Technology |
