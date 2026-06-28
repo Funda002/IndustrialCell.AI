@@ -106,8 +106,8 @@ Live reporting
 Historical report browsing 
  
 # 🔄 Workflow 
+ ![Alt Text](https://github.com/Funda002/IndustrialCell.AI/blob/main/Screenshot%202026-06-28%20073121.png )
 
-  
 # 🚧 Challenges  
 **💸 Zero API Budget**
 IndustrialCell.AI was developed under a $0.00 API budget.
