@@ -4,7 +4,7 @@ from storage_manager import StorageManager
 import os
 
 # Init Backend
-API_KEY = "sk-ai-v1-e9f9699c9972ac853cb745efad87a9df244b24837205ff38d012bcf8c24c2b3e"
+API_KEY = "use_your_key"
 agent = SupervisorAgent(API_KEY)
 db = StorageManager()
 
